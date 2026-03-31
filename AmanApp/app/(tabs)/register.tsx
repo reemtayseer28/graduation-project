@@ -160,4 +160,5 @@ const styles = StyleSheet.create({
   registerBtnText: { color: 'white', fontSize: 16, fontWeight: 'bold' },
   loginText: { fontSize: 13, color: '#555' },
   loginLink: { color: '#1a3a6e', fontWeight: 'bold' },
+  registerLink: { color: '#1a3a6e', fontWeight: 'bold' },
 });
